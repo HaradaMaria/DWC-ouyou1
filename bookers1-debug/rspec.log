@@ -714,7 +714,7 @@ Failures:
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/strategy_syntax_method_registrar.rb:28:in `block in define_singular_strategy_method'[0m
       [36m# ./spec/system/books_spec.rb:4:in `block (2 levels) in <main>'[0m
 
-Finished in 0.45983 seconds (files took 1.81 seconds to load)
+Finished in 0.48171 seconds (files took 2.01 seconds to load)
 [31m28 examples, 28 failures[0m
 
 Failed examples:
